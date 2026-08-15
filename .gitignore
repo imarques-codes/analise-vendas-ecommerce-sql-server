@@ -1,0 +1,15 @@
+# Dados brutos
+# Dados brutos
+dados/brutos/*.csv
+dados/brutos/*.zip
+
+# Configurações locais
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
