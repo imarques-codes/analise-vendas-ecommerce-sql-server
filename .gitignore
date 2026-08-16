@@ -13,3 +13,6 @@ dados/brutos/*.zip
 # Sistema
 .DS_Store
 Thumbs.db
+
+# dados tratados
+dados/tratados/*.csv
