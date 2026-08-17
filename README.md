@@ -82,6 +82,7 @@ analise-vendas-ecommerce-sql-server/
 ├── imagens/
 ├── .gitignore
 └── README.md
+```
 
 ## Conceitos SQL utilizados
 
@@ -126,6 +127,28 @@ Entre os principais resultados encontrados:
 
 Os resultados e interpretações estão detalhados em
 [`documentacao/insights.md`](documentacao/insights.md).
+
+## Evidências da análise
+
+### Evolução do faturamento mensal
+
+![Faturamento mensal](imagens/faturamento_mensal.png)
+
+### Clientes por estado
+
+![Clientes por estado](imagens/clientes_por_estado.png)
+
+### Categorias com maior faturamento
+
+![Categorias com maior faturamento](imagens/categorias_faturamento.png)
+
+### Vendedores com maior faturamento
+
+![Vendedores com maior faturamento](imagens/vendedores_faturamento.png)
+
+### Entrega e avaliação dos clientes
+
+![Entrega e avaliação dos clientes](imagens/entrega_avaliacao.png)
 
 ## Etapas do projeto
 
