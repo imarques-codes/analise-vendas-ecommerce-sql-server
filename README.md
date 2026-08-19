@@ -150,6 +150,30 @@ Os resultados e interpretações estão detalhados em
 
 ![Entrega e avaliação dos clientes](imagens/entrega_avaliacao.png)
 
+## Dashboard em Power BI
+
+Além das análises realizadas em SQL, foi desenvolvido um dashboard no Power BI conectado ao banco de dados SQL Server.
+
+**Arquivo do dashboard:** [Baixar relatório Power BI (.pbix)](PowerBI/analise_vendas_ecommerce_olist.pbix)
+
+O relatório foi dividido em três páginas:
+
+- **Visão Geral:** principais indicadores de vendas, evolução mensal do faturamento, formas de pagamento e desempenho por estado.
+- **Clientes, Produtos e Vendedores:** análise de clientes únicos, recompra, categorias de produtos e desempenho dos vendedores.
+- **Entregas e Satisfação:** análise do tempo de entrega, atrasos e relação entre desempenho logístico e avaliação dos clientes.
+
+### Visão Geral
+
+![Dashboard Power BI - Visão Geral](imagens/powerbi_visao_geral.png)
+
+### Clientes, Produtos e Vendedores
+
+![Dashboard Power BI - Clientes, Produtos e Vendedores](imagens/powerbi_clientes_produtos_vendedores.png)
+
+### Entregas e Satisfação
+
+![Dashboard Power BI - Entregas e Satisfação](imagens/powerbi_entregas_satisfacao.png)
+
 ## Etapas do projeto
 
 1. Definição do problema de negócio
